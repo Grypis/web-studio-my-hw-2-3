@@ -1,0 +1,22 @@
+ul, ol {
+    list-style-type: none;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
+button {
+    cursor: pointer;
+}
+
+img {
+    display: block;
+}
+
+main {
+    
+    color: #434455;
+    background-color: #ffffff;
+}
