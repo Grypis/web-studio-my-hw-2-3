@@ -1,3 +1,4 @@
+/* ============================= Default styles ============================= */
 ul, ol {
     list-style-type: none;
 }
@@ -16,7 +17,201 @@ img {
 }
 
 main {
-    
+    font-family: "Roboto", sans-serif;
     color: #434455;
     background-color: #ffffff;
 }
+
+/* ============================= /Default styles ============================= */
+
+/* ============================= Header styles ============================= */
+.page-header {
+}
+.page-header-navigation {
+}
+.logo {
+    font-family: "Raleway", sans-serif;
+font-weight: 700;
+font-size: 18px;
+line-height: 1.17;
+letter-spacing: 0.03em;
+text-transform: uppercase;
+color: #2e2f42;
+}
+.logo-span {
+    color: #4d5ae5;
+}
+.menu-header {
+}
+.item-menu-header {
+}
+.link-menu-header {
+    font-weight: 500;
+font-size: 16px;
+line-height: 1.5;
+letter-spacing: 0.02em;
+color: #2e2f42;
+}
+
+.link-menu-header:hover,
+.link-menu-header:focus {
+    color: #404bbf;
+}
+
+.address-header {
+}
+.address-menu {
+}
+.address-menu-item {
+}
+.address-link {
+    font-weight: 400;
+font-size: 16px;
+line-height: 1.5;
+letter-spacing: 0.02em;
+}
+
+.address-link:hover,
+.address-link:focus {
+    color: #404bbf;
+}
+/* ============================= /Header styles ============================= */
+
+
+/* ============================= Hero styles ============================= */
+.page-hero {
+    background-color: #2e2f42;
+}
+.hero-title {
+    font-size: 56px;
+line-height: 1.1;
+letter-spacing: 0.02em;
+text-align: center;
+color: #ffffff;
+}
+.btn {
+    font-weight: 500;
+font-size: 16px;
+line-height: 1.5;
+letter-spacing: 0.04em;
+color: #ffffff;
+background-color:  #4d5ae5;
+}
+
+.btn:hover,
+.btn:focus {
+    background-color: #404bbf;
+}
+/* ============================= /Hero styles ============================= */
+
+/* ============================= Benefits styles ============================= */
+.page-bebefits {
+}
+.title-benefits {
+    visibility: hidden;
+}
+.page-benefits-menu {
+}
+.page-benefits-menu-item {
+}
+.page-benefits-subtitle {
+    font-weight: 500;
+font-size: 20px;
+line-height: 1.2;
+letter-spacing: 0.02em;
+color: #2e2f42;
+}
+.page-benefits-text {
+    font-size: 16px;
+line-height: 1.5;
+letter-spacing: 0.02em;
+}
+/* ============================= /Benefits styles ============================= */
+
+
+/* ============================= Our team styles ============================= */
+.team-section {
+}
+.page-team-title {
+    font-size: 36px;
+line-height: 1.11;
+letter-spacing: 0.02em;
+text-transform: capitalize;
+text-align: center;
+color: #2e2f42;
+}
+.page-team-menu {
+}
+.page-team-menu-item {
+}
+.page-team-img {
+}
+.page-team-subtitle {
+    font-weight: 500;
+font-size: 20px;
+line-height: 1.2;
+letter-spacing: 0.02em;
+text-align: center;
+color: #2e2f42;
+}
+.page-team-text {
+    font-size: 16px;
+line-height: 1.5;
+letter-spacing: 0.02em;
+text-align: center
+}
+/* ============================= /Our team styles ============================= */
+
+
+/* ============================= Portfolio styles ============================= */
+.page-portfolio {
+}
+.page-portfolio-title {
+    font-size: 36px;
+line-height: 1.11111;
+letter-spacing: 0.02em;
+text-transform: capitalize;
+text-align: center;
+color: #2e2f42;
+}
+.page-portfolio-menu {
+}
+.page-portfolio-menu-item {
+}
+.page-portfolio-img {
+}
+.page-portfolio-subtitle {
+    font-weight: 500;
+font-size: 20px;
+line-height: 1.2;
+letter-spacing: 0.02em;
+color: #2e2f42;
+}
+.page-portfolio-text {
+    font-size: 16px;
+line-height: 1.5;
+letter-spacing: 0.02em;
+}
+/* ============================= /Portfolio styles ============================= */
+
+
+/* ============================= Footer styles ============================= */
+.page-footer {
+    background-color: #2e2f42;
+}
+.page-footer-logo {
+    font-family: "Raleway", sans-serif;
+font-weight: 700;
+font-size: 18px;
+line-height: 1.17;
+letter-spacing: 0.03em;
+text-transform: uppercase;
+color: #f4f4fd;
+}
+.page-footer-text {
+    font-size: 16px;
+line-height: 1.5;
+letter-spacing: 0.02em;
+color: #f4f4fd;
+}
+/* ============================= /Footer styles ============================= */
